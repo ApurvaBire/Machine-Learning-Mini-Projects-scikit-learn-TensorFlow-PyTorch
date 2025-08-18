@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖%20Machine%20Learning-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FF6F00" alt="Machine Learning Banner"/>
-</p>
 
-# 🚀 Machine Learning Mini Projects  
+# 🚀🤖Machine Learning Mini Projects  
 `Beginner-friendly ML projects using **scikit-learn, TensorFlow/Keras, and PyTorch**.All datasets are either built-in or generated synthetically.`
 
 ---
 ## Overview  
+
 `This repository contains three beginner-friendly projects that demonstrate core concepts of machine learning and deep learning using Python’s most popular libraries. ` 
 ### Main Packages Used  
 ◽️`scikit-learn` – Classical ML algorithms & preprocessing  
