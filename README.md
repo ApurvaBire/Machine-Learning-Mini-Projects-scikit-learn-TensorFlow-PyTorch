@@ -43,7 +43,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 - **Folder:** `pytorch-fashion-mnist`  
 - **Description:** Classifies **fashion items** from Fashion-MNIST using a **PyTorch neural network**.  
 - **Goal:** Learn PyTorch basics — dataset loading, training, evaluation, and predictions.  
-- 📄 [View Project](./pytorch-fashion-mnist/README.md)
+- 📄 [View Project](./pytorch-fashion-mnist)
 
 ---
 
