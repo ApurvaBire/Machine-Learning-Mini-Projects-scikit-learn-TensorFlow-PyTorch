@@ -100,5 +100,16 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 👉📤[**Download Outputs**](./outputs/project_outputs.zip)  
 
 --- 
-`*Thanks for Checking Out the Repo!😊*`
-`⭐️ If you found it useful, give it a star! Happy learning and coding!`
+<div align="center">
+
+<kbd>
+  <div style="background-color:#fff8f8; border:2px solid #f28b82; border-radius:10px; padding:15px; max-width:700px;">
+
+  <h3>🌟 Closing Note</h3>
+
+  😊❤Thanks for Checking Out the Repo!
+⭐️ If you found it useful, give it a star! Happy learning and coding!
+  </div>
+</kbd>
+
+</div>
