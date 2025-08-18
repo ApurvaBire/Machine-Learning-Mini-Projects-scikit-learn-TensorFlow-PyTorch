@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Machine Learning Projects</h1>
-<p align="center">Beginner-friendly implementations using <b>scikit-learn, TensorFlow, and PyTorch</b></p>
-
+# 🚀 Machine Learning Projects
+Beginner-friendly ML & DL implementations using **scikit-learn, TensorFlow, and PyTorch**.
 ---
 
 ***📌 Overview***
