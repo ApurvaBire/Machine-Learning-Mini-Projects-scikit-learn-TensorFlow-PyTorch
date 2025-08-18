@@ -1,9 +1,9 @@
-> <div align="center">
-> 
-> # Machine Learning Projects  
-> ### Scikit-learn • PyTorch • TensorFlow  
-> 
-> </div>
+<div align="center">
+
+# Machine Learning Projects  
+### Scikit-learn • PyTorch • TensorFlow  
+ 
+</div>
 ---
 <p align="center" style="background-color:#1e1e1e; padding:15px; border-radius:12px;">
   <a href="https://www.python.org/" target="_blank">
