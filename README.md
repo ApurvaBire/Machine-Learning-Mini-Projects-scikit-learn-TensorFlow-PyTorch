@@ -68,12 +68,23 @@ The foundation of numerical computing in Python.`
 ---
 🔷Installation 
 
-◽️Install all required dependencies with: 
+◽️Install dependencies for each project separately:
+
 ```bash
-pip install scikit-learn tensorflow torch torchvision matplotlib numpy
+# 1️⃣ Scikit-learn Synthetic Classification
+cd scikit-learn-synthetic
+pip install -r requirements.txt
+
+# 2️⃣ TensorFlow MNIST Classifier
+cd ../tensorflow-mnist
+pip install -r requirements.txt
+
+# 3️⃣ PyTorch Fashion-MNIST Classifier
+cd ../pytorch-fashion-mnist
+pip install -r requirements.txt
 ```
 ---
-`***🔶Projects***`
+`🔶Projects`
 
 1️⃣ `Scikit-learn Synthetic Classification`
 
@@ -110,6 +121,6 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 <div style="border: 2px solid #f5b5b5; border-radius: 8px; padding: 12px; background-color: #fff5f5;">
 
 Thanks for Checking Out the Repo!😊🚀
-If you found it useful, please consider giving it a⭐
+
 </div>
 </details>
