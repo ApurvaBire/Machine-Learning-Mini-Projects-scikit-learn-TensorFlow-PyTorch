@@ -46,7 +46,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 ---
 
-### `3️⃣ PyTorch Fashion-MNIST Classifier`
+###`3️⃣ PyTorch Fashion-MNIST Classifier`
   
 📁 **Folder:** `pytorch-fashion-mnist`  
 📝 **Description:** Classifies **fashion items** from Fashion-MNIST using a **PyTorch neural network**.  
