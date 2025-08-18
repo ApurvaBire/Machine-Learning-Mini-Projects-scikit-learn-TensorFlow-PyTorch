@@ -1,4 +1,5 @@
-# 🚀🤖Machine Learning Projects  
+> # 🚀 Machine Learning Projects  
+> **Scikit-learn · PyTorch · TensorFlow**
 ---
 ***📌Overview***
 
@@ -6,24 +7,23 @@
 
 `📩All datasets are either built-in or generated synthetically.`
 
-## 📦 Main Packages Overview  
+***📦 Main Packages Overview***
 
-`This repository demonstrates end-to-end machine learning workflows using a mix of classical ML and modern deep learning frameworks.`
-Below is a quick overview of the core packages leveraged in the projects: 
+`This repository demonstrates end-to-end machine learning workflows using a mix of classical ML and modern deep learning frameworks.Below is a quick overview of the core packages leveraged in the projects:`
 
-### `🔹Scikit-learn`
+`🔹Scikit-learn`
 > A powerful classical machine learning library in Python.  
 - Provides a rich collection of **supervised & unsupervised algorithms** (e.g., regression, SVM, clustering).  
 - Includes tools for **data preprocessing, model evaluation, and feature engineering**.  
 - Lightweight and ideal for quick experimentation and prototyping.  
 
-### `🔹TensorFlow / Keras`  
+`🔹TensorFlow / Keras`  
 > An industry-standard framework for deep learning.  
 - Supports building **neural networks** for tasks like **image classification, NLP, and time-series forecasting**.  
 - Offers **Keras API** for user-friendly high-level model development.  
 - Optimized for both **research and production deployment**.  
 
-### `🔹PyTorch`
+`🔹PyTorch`
 > A flexible and research-friendly deep learning framework.  
 - Provides **dynamic computation graphs**, making debugging easier.  
 - Widely used in **research, prototyping, and cutting-edge AI applications**.  
