@@ -1,9 +1,24 @@
 > <div align="center">
 > 
-> # 🚀🤖Machine Learning Projects  
+> # Machine Learning Projects  
 > ### Scikit-learn • PyTorch • TensorFlow  
 > 
 > </div>
+---
+<p align="center" style="background-color:#1e1e1e; padding:15px; border-radius:12px;">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
+  </a>
+</p>
 
 ***📌Overview***
 
@@ -82,21 +97,5 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 👉📤[**Download Outputs**](./outputs/project_outputs.zip)  
 
 --- 
-
-<p align="center" style="background-color:#1e1e1e; padding:15px; border-radius:12px;">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
-  </a>
-</p>
-
-✨😊Thank you for visiting this repository!  
-⭐If you found them helpful, feel free to star the repo!  
+`✨😊Thank you for visiting this repository!  
+If you found them helpful, feel free to star the repo!`
