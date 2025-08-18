@@ -99,33 +99,39 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 ***⏸How to Run Any Project***
 
 `Step 1: Clone the repository`
-
+```
 git clone https://github.com/APURVABIRE/Machine-Learning-Mini-Projects-scikit-learn-TensorFlow-PyTorch.git
 cd Machine-Learning-Mini-Projects-scikit-learn-TensorFlow-PyTorch
 
 `Step 2: Navigate to the project folder and install requirements`
 
-# For Scikit-learn project
+•For Scikit-learn project
+```
 cd scikit-learn-synthetic
 pip install -r requirements.txt
 
-# For TensorFlow project
+•For TensorFlow project
+```
 cd ../tensorflow-mnist
 pip install -r requirements.txt
 
-# For PyTorch project
+•For PyTorch project
+```
 cd ../pytorch-fashion-mnist
 pip install -r requirements.txt
 
 `Step 3: Run the main Python file`
 
-# For Scikit-learn
+•For Scikit-learn
+```
 python main.py
 
-# For TensorFlow
+•For TensorFlow
+```
 python tensorflow_mnist.py
 
-# For PyTorch
+•For PyTorch
+```
 python pytorch_fashion_mnist.py
 
 
