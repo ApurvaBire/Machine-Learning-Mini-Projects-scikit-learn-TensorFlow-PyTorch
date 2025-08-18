@@ -1,21 +1,19 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖%20Machine%20Learning-Powered%20by%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FF6F00" alt="Machine Learning Banner"/>
+  <img src="https://img.shields.io/badge/🤖%20Machine%20Learning-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FF6F00" alt="Machine Learning Banner"/>
 </p>
 
 # 🚀 Machine Learning Mini Projects  
-Beginner-friendly ML projects using **scikit-learn, TensorFlow/Keras, and PyTorch**.  
-All datasets are either built-in or generated synthetically.  
+`Beginner-friendly ML projects using **scikit-learn, TensorFlow/Keras, and PyTorch**.All datasets are either built-in or generated synthetically.`
 
 ---
 ## Overview  
-This repository contains **three beginner-friendly projects** that demonstrate core concepts of **machine learning and deep learning** using Python’s most popular libraries.  
-
+`This repository contains three beginner-friendly projects that demonstrate core concepts of machine learning and deep learning using Python’s most popular libraries. ` 
 ### Main Packages Used  
-- `scikit-learn` – Classical ML algorithms & preprocessing  
-- `TensorFlow / Keras`– Deep learning for computer vision & NLP  
-- `PyTorch` – Flexible deep learning framework for research & prototyping  
-- `Matplotlib` – Visualization & plotting  
-- `NumPy`– Numerical computations  
+◽️`scikit-learn` – Classical ML algorithms & preprocessing  
+◽️`TensorFlow / Keras`– Deep learning for computer vision & NLP  
+◽️ `PyTorch` – Flexible deep learning framework for research & prototyping  
+◽️`Matplotlib` – Visualization & plotting  
+◽️`NumPy`– Numerical computations  
 ---
 ##  Installation  
 You can install all required packages using pip:  
@@ -46,10 +44,12 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 ---
 
 ## Project Outputs  
+
 You can download all project outputs here:  
 [📥 **Download Outputs**](./outputs/project_outputs.zip)  
 ---
 ## ▶️ How to Run  
+
 1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/YOUR_USERNAME/Machine-Learning-Mini-Projects-scikit-learn-TensorFlow-PyTorch.git
