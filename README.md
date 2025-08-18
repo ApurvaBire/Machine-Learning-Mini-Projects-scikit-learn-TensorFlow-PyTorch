@@ -9,6 +9,7 @@ Beginner-friendly implementations using **scikit-learn, TensorFlow/Keras, and Py
 `📩All datasets are either built-in or generated synthetically.`
 
 ***Main Packages Used***
+
 - **scikit-learn** – Classical ML algorithms & preprocessing  
 - **TensorFlow / Keras** – Deep learning for computer vision & NLP  
 - **PyTorch** – Flexible deep learning framework for research & prototyping  
@@ -56,7 +57,8 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 ---
 
 ***📦 Project Outputs*** 
-You can download all project outputs here:  
+
+`You can download all project outputs here:` 
 👉 [**Download Outputs**](./outputs/project_outputs.zip)  
 
 ---
