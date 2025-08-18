@@ -1,4 +1,11 @@
-# 🚀🤖 ***Machine Learning Projects*** 
+<table>
+  <tr>
+    <td align="center" bgcolor="#ffe5e5" style="border-radius:10px; padding:15px; font-size:20px; font-weight:bold;">
+      🚀 Machine Learning Projects <br>
+      <span style="font-size:16px; font-weight:normal;">Scikit-learn · PyTorch · TensorFlow</span>
+    </td>
+  </tr>
+</table> 
 > **Scikit-learn · PyTorch · TensorFlow**
 ---
 ***📌Overview***
