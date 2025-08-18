@@ -1,5 +1,6 @@
->🚀 Machine Learning Mini Projects  
-Beginner-friendly ML projects using **scikit-learn, TensorFlow/Keras, and PyTorch**.  
+#🚀 Machine Learning Mini Projects  
+
+####Beginner-friendly ML projects using **scikit-learn, TensorFlow/Keras, and PyTorch**.  
 All datasets are either built-in or generated synthetically.  
 
 ---
@@ -74,17 +75,8 @@ pip install -r requirements.txt
 3️⃣ **Run the project**  
 ```bash
 python main.py              # or tensorflow_mnist.py / pytorch_fashion_mnist.py
-```  
-
+``` 
 ---
-
-***🎯Learning Goals*** 
-▪️Understand **ML & DL fundamentals**  
-▪️ Learn workflow from **Data → Model → Visualization**  
-▪️Gain practical experience with **scikit-learn, TensorFlow/Keras, and PyTorch**  
-
----
-
 ***Tech Stack & Packages***
 
 <p align="center">
