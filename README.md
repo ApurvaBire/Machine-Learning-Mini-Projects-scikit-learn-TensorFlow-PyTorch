@@ -1,6 +1,5 @@
-#🚀 Machine Learning Mini Projects  
-Beginner-friendly ML projects using **scikit-learn, TensorFlow/Keras, and PyTorch**.  
-All datasets are either built-in or generated synthetically.  
+<h1 align="center">🚀 Machine Learning Projects</h1>
+<p align="center">Beginner-friendly implementations using <b>scikit-learn, TensorFlow, and PyTorch</b></p>
 
 ---
 
