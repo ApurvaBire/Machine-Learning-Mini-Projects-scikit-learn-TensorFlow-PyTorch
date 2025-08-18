@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Mini%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="ML Mini Projects"/>
+  <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0.24-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-2.13-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-2.1-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
 # 🚀 Machine Learning Mini Projects  
@@ -79,16 +82,7 @@ pip install -r requirements.txt
 ```bash
 python main.py              # or tensorflow_mnist.py / pytorch_fashion_mnist.py
 ```  
-
 ---
-
-## 🎯 Learning Goals  
-✔️ Understand **ML & DL basics**  
-✔️ Learn workflow from **Data → Model → Visualization**  
-✔️ Get hands-on practice with **scikit-learn, TensorFlow/Keras, and PyTorch**  
-
----
-
 ## 🛠 Tech Stack & Packages  
 
 <p align="center">
