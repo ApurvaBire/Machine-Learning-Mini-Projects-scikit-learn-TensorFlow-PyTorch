@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#1e1e1e; color:white; padding:15px; border-radius:10px; border:1px solid #444;">
+<div align="center" style="background: linear-gradient(to right, #ffcccc, #ffe5e5); padding:15px; border-radius:12px; border:1px solid #ff9999;">
   <h1>🚀 Machine Learning Projects</h1>
   <p><b>Scikit-learn • PyTorch • TensorFlow</b></p>
 </div>
@@ -15,35 +15,34 @@
 
 `🔹Scikit-learn`
 > A powerful classical machine learning library in Python.  
-- Provides a rich collection of **supervised & unsupervised algorithms** (e.g., regression, SVM, clustering).  
-- Includes tools for **data preprocessing, model evaluation, and feature engineering**.  
-- Lightweight and ideal for quick experimentation and prototyping.  
+- `Provides a rich collection of **supervised & unsupervised algorithms** (e.g., regression, SVM, clustering).`  
+- `Includes tools for **data preprocessing, model evaluation, and feature engineering**.` 
+- `Lightweight and ideal for quick experimentation and prototyping.`  
 
 `🔹TensorFlow / Keras`  
 > An industry-standard framework for deep learning.  
-- Supports building **neural networks** for tasks like **image classification, NLP, and time-series forecasting**.  
-- Offers **Keras API** for user-friendly high-level model development.  
-- Optimized for both **research and production deployment**.  
+- `Supports building **neural networks** for tasks like **image classification, NLP, and time-series forecasting**.` 
+- `Offers **Keras API** for user-friendly high-level model development.` 
+- `Optimized for both **research and production deployment**.` 
 
 `🔹PyTorch`
 > A flexible and research-friendly deep learning framework.  
-- Provides **dynamic computation graphs**, making debugging easier.  
-- Widely used in **research, prototyping, and cutting-edge AI applications**.  
-- Strong community support for tasks in **computer vision, NLP, and reinforcement learning**.  
+- `Provides **dynamic computation graphs**, making debugging easier.`  
+- `Widely used in **research, prototyping, and cutting-edge AI applications**.`
+- `Strong community support for tasks in **computer vision, NLP, and reinforcement learning**.` 
 
 `🔹Matplotlib` 
 > The **go-to library for data visualization in Python.  
-- Enables **2D plotting** such as line graphs, scatter plots, bar charts, and histograms.  
-- Often used alongside **NumPy, Pandas, and Seaborn** for storytelling with data.  
+- `Enables **2D plotting** such as line graphs, scatter plots, bar charts, and histograms.`  
+- `Often used alongside **NumPy, Pandas, and Seaborn** for storytelling with data.`  
 
 `🔹NumPy` 
 > The foundation of numerical computing in Python.  
-- Provides **multi-dimensional arrays, matrices, and mathematical operations**.  
-- Core dependency for almost all scientific computing libraries (Pandas, Scikit-learn, TensorFlow, etc.).  
-- Enables **fast vectorized operations** for efficient computations.  
+- `Provides **multi-dimensional arrays, matrices, and mathematical operations**.`  
+- `Core dependency for almost all scientific computing libraries (Pandas, Scikit-learn, TensorFlow, etc.).` 
+- `Enables **fast vectorized operations** for efficient computations.`
 
 ---
-
 ***⚙️Installation*** 
 
 Install all required dependencies with: 
