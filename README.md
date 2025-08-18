@@ -1,4 +1,4 @@
-# 🚀🤖 Machine Learning Projects  
+# 🚀🤖 ***Machine Learning Projects*** 
 > **Scikit-learn · PyTorch · TensorFlow**
 ---
 ***📌Overview***
@@ -29,12 +29,12 @@
 - Widely used in **research, prototyping, and cutting-edge AI applications**.  
 - Strong community support for tasks in **computer vision, NLP, and reinforcement learning**.  
 
-### `🔹Matplotlib` 
+`🔹Matplotlib` 
 > The **go-to library for data visualization in Python.  
 - Enables **2D plotting** such as line graphs, scatter plots, bar charts, and histograms.  
 - Often used alongside **NumPy, Pandas, and Seaborn** for storytelling with data.  
 
-### `🔹NumPy` 
+`🔹NumPy` 
 > The foundation of numerical computing in Python.  
 - Provides **multi-dimensional arrays, matrices, and mathematical operations**.  
 - Core dependency for almost all scientific computing libraries (Pandas, Scikit-learn, TensorFlow, etc.).  
