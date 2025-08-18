@@ -50,6 +50,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 You can download all project outputs here:  
 [📥 **Download Outputs**](./outputs/project_outputs.zip)  
+
 ---
 ## ▶️ How to Run  
 1️⃣ **Clone the repository**  
