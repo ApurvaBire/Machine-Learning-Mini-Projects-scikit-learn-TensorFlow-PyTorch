@@ -27,7 +27,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 - **Folder:** `scikit-learn-synthetic`  
 - **Description:** Generates a **synthetic 2D dataset** and classifies it using **Logistic Regression**.  
 - **Goal:** Learn ML workflow — dataset creation, training, and visualization.  
-- 📄 [View Project](./scikit-learn-synthetic/README.md)
+- 📄 [View Project](./scikit-learn-synthetic)
 
 ---
 
