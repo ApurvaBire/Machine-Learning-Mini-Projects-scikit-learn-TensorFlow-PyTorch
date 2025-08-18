@@ -1,7 +1,9 @@
-<div align="center" style="background: linear-gradient(to right, #ffcccc, #ffe5e5); padding:15px; border-radius:12px; border:1px solid #ff9999;">
-  <h1>🚀 Machine Learning Projects</h1>
-  <p><b>Scikit-learn • PyTorch • TensorFlow</b></p>
-</div>
+> <div align="center">
+> 
+> # 🚀🤖Machine Learning Projects  
+> ### Scikit-learn • PyTorch • TensorFlow  
+> 
+> </div>
 
 ***📌Overview***
 
@@ -79,9 +81,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 >You can download all project outputs image here:
 👉📤[**Download Outputs**](./outputs/project_outputs.zip)  
 
----
->✨😊Thank you for visiting this repository!  
->⭐If you found them helpful, feel free to star the repo!  
+--- 
 
 <p align="center" style="background-color:#1e1e1e; padding:15px; border-radius:12px;">
   <a href="https://www.python.org/" target="_blank">
@@ -97,3 +97,6 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
   </a>
 </p>
+
+✨😊Thank you for visiting this repository!  
+⭐If you found them helpful, feel free to star the repo!  
