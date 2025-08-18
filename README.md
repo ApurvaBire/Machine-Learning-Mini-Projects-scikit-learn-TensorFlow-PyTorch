@@ -29,7 +29,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 ---
 ***📂Projects***  
 
-###`1️⃣Scikit-learn Synthetic Classification` 
+-###`1️⃣Scikit-learn Synthetic Classification` 
 
 📁 **Folder:** `scikit-learn-synthetic`  
 📝 **Description:** Generates a **synthetic 2D dataset** and classifies it using **Logistic Regression**.  
@@ -38,7 +38,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 ---
 
-###`2️⃣TensorFlow MNIST Classifier`  
+-###`2️⃣TensorFlow MNIST Classifier`  
 
 📁 **Folder:** `tensorflow-mnist`  
 📝 **Description:** Classifies **handwritten digits** from MNIST using a **simple neural network**.  
@@ -47,7 +47,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 ---
 
-###`3️⃣ PyTorch Fashion-MNIST Classifier`
+-###`3️⃣ PyTorch Fashion-MNIST Classifier`
   
 📁 **Folder:** `pytorch-fashion-mnist`  
 📝 **Description:** Classifies **fashion items** from Fashion-MNIST using a **PyTorch neural network**.  
@@ -58,7 +58,8 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 ***📦 Project Outputs*** 
 
-`You can download all project outputs here:` 
+>You can download all project outputs image here:
+
 👉 [**Download Outputs**](./outputs/project_outputs.zip)  
 
 ---
@@ -79,7 +80,7 @@ pip install -r requirements.txt
 
 3️⃣ **Run the project**  
 ```bash
-python main.py              # or tensorflow_mnist.py / pytorch_fashion_mnist.py
+python main.py      # or tensorflow_mnist.py / pytorch_fashion_mnist.py
 ``` 
 ---
 
