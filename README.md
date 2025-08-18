@@ -1,16 +1,6 @@
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" bgcolor="#ffe5e5" style="border:2px solid #ffcccc; border-radius:12px; padding:20px; font-size:22px; font-weight:bold;">
-        🚀 Machine Learning Projects
-        <br>
-        <span style="font-size:16px; font-weight:normal;">Scikit-learn · PyTorch · TensorFlow</span>
-      </td>
-    </tr>
-  </table>
-</p>
-
-> **Scikit-learn · PyTorch · TensorFlow**
+## ```
+🚀 Machine Learning Projects
+Scikit-learn · PyTorch · TensorFlow
 ---
 ***📌Overview***
 
