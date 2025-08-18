@@ -1,11 +1,11 @@
-# `🚀Machine Learning Mini Projects  
-Beginner-friendly ML projects using **scikit-learn, TensorFlow/Keras, and PyTorch**.`
+# 🚀Machine Learning Mini Projects  
+Beginner-friendly ML projects using **scikit-learn, TensorFlow/Keras, and PyTorch**.
 All datasets are either built-in or generated synthetically.  
 ---
-## `📌Overview`  
+## ◽️Overview  
 This repository contains **three beginner-friendly projects** that demonstrate core concepts of **machine learning and deep learning** using Python’s most popular libraries.  
 
-### 🔹Main Packages Used  
+### ◽️Main Packages Used  
 - **scikit-learn** – Classical ML algorithms & preprocessing  
 - **TensorFlow / Keras** – Deep learning for computer vision & NLP  
 - **PyTorch** – Flexible deep learning framework for research & prototyping  
@@ -14,7 +14,7 @@ This repository contains **three beginner-friendly projects** that demonstrate c
 
 ---
 
-## `⚙️Installation` 
+## ◽️Installation
 You can install all required packages using pip:  
 
 ```bash
@@ -23,7 +23,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 ---
 
-## 📂 Projects  
+## ◽️Projects  
 
 ### 1️⃣`Scikit-learn Synthetic Classification` 
 📁 **Folder:** `scikit-learn-synthetic`  
@@ -47,13 +47,13 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 ---
 
-## `📦Project Outputs`  
+## ◽️Project Outputs 
 You can download all project outputs here:  
 [📥 **Download Outputs**](./outputs/project_outputs.zip)  
 
 ---
 
-## `▶️How to Run`
+## ▶️How to Run
 
 1️⃣ **Clone the repository**  
 ```bash
@@ -74,13 +74,13 @@ python main.py              # or tensorflow_mnist.py / pytorch_fashion_mnist.py
 
 ---
 
-## `🎯 Learning Goals`  
+## ◽️Learning Goals
 🔸Understand **ML & DL basics**  
 🔸Learn workflow from **Data → Model → Visualization**  
 🔸Get hands-on practice with **scikit-learn, TensorFlow/Keras, and PyTorch**  
 
 ---
-## `🛠 Tech Stack & Packages`  
+## ◽️Tech Stack & Packages 
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
