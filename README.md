@@ -1,11 +1,10 @@
-<h1 align="center">🚀 Machine Learning Projects</h1>
-
-# 🚀 Machine Learning Projects
-Beginner-friendly ML & DL implementations using **scikit-learn, TensorFlow, and PyTorch**.
+# 🚀 Machine Learning Projects  
+Beginner-friendly implementations using **scikit-learn, TensorFlow/Keras, and PyTorch**.  
+All datasets are either built-in or generated synthetically.  
 
 ---
-
 ***📌 Overview***
+
 This repository contains **three beginner-friendly projects** that demonstrate core concepts of **machine learning and deep learning** using Python’s most popular libraries.  
 
 ***Main Packages Used***
