@@ -1,11 +1,12 @@
 # 🚀 Machine Learning Projects  
 Beginner-friendly implementations using **scikit-learn, TensorFlow/Keras, and PyTorch**.  
-All datasets are either built-in or generated synthetically.  
-
+ 
 ---
-***📌 Overview***
+***📌Overview***
 
-This repository contains **three beginner-friendly projects** that demonstrate core concepts of **machine learning and deep learning** using Python’s most popular libraries.  
+`This repository contains **three beginner-friendly projects** that demonstrate core concepts of **machine learning and deep learning** using Python’s most popular libraries.`
+
+`📩All datasets are either built-in or generated synthetically.`
 
 ***Main Packages Used***
 - **scikit-learn** – Classical ML algorithms & preprocessing  
@@ -16,18 +17,19 @@ This repository contains **three beginner-friendly projects** that demonstrate c
 
 ---
 
-***Installation*** 
-Install all required dependencies with:  
+***⚙️Installation*** 
+
+Install all required dependencies with: 
 
 ```bash
 pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 ```
 
 ---
+***📂Projects***  
 
-***Projects***  
+###`1️⃣Scikit-learn Synthetic Classification` 
 
-### `1️⃣Scikit-learn Synthetic Classification` 
 📁 **Folder:** `scikit-learn-synthetic`  
 📝 **Description:** Generates a **synthetic 2D dataset** and classifies it using **Logistic Regression**.  
 🎯 **Goal:** Learn ML workflow — dataset creation, training, and visualization.  
@@ -35,7 +37,8 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 ---
 
-### `2️⃣TensorFlow MNIST Classifier`  
+###`2️⃣TensorFlow MNIST Classifier`  
+
 📁 **Folder:** `tensorflow-mnist`  
 📝 **Description:** Classifies **handwritten digits** from MNIST using a **simple neural network**.  
 🎯 **Goal:** Learn how to build, train, and evaluate deep learning models with TensorFlow/Keras.  
@@ -43,7 +46,8 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 ---
 
-### `3️⃣ PyTorch Fashion-MNIST Classifier`  
+### `3️⃣ PyTorch Fashion-MNIST Classifier`
+  
 📁 **Folder:** `pytorch-fashion-mnist`  
 📝 **Description:** Classifies **fashion items** from Fashion-MNIST using a **PyTorch neural network**.  
 🎯 **Goal:** Learn PyTorch basics — dataset loading, training, evaluation, and predictions.  
@@ -51,13 +55,13 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 ---
 
-***Project Outputs*** 
-📥 You can download all project outputs here:  
+***📦 Project Outputs*** 
+You can download all project outputs here:  
 👉 [**Download Outputs**](./outputs/project_outputs.zip)  
 
 ---
 
-***How to Run***  
+***▶️ How to Run***  
 
 1️⃣ **Clone the repository**  
 ```bash
@@ -76,7 +80,8 @@ pip install -r requirements.txt
 python main.py              # or tensorflow_mnist.py / pytorch_fashion_mnist.py
 ``` 
 ---
-***Tech Stack & Packages***
+
+***🤖Tech Stack & Packages***
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
