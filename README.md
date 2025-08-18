@@ -1,7 +1,10 @@
 ## 
 🚀 Machine Learning Projects
-
 > Scikit-learn · PyTorch · TensorFlow
+<div align="center" style="background-color:#1e1e1e; color:white; padding:15px; border-radius:10px; border:1px solid #444;">
+  <h1>🚀 Machine Learning Projects</h1>
+  <p><b>Scikit-learn • PyTorch • TensorFlow</b></p>
+</div>
 ---
 ***📌Overview***
 
