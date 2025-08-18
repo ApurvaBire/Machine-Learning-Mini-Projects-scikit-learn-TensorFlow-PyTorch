@@ -1,6 +1,7 @@
 ## 
 🚀 Machine Learning Projects
-Scikit-learn · PyTorch · TensorFlow
+
+> Scikit-learn · PyTorch · TensorFlow
 ---
 ***📌Overview***
 
