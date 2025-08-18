@@ -20,13 +20,13 @@
   </a>
 </p>
 
-`***🔷Overview***`
+`🔷Overview`
 
 `This repository contains three beginner-friendly projects that demonstrate core concepts of machine learning and deep learning using Python’s most popular libraries.`
 
 `📩All datasets are either built-in or generated synthetically.`
-
-`***🔶Main Packages Overview***`
+---
+`🔶Main Packages Overview`
 
 `This repository demonstrates end-to-end machine learning workflows using a mix of classical ML and modern deep learning frameworks. Below is a quick overview of the core packages leveraged in the projects:`
 
@@ -65,7 +65,7 @@ The foundation of numerical computing in Python.`
 - Core dependency for almost all scientific computing libraries (Pandas, Scikit-learn, TensorFlow, etc.).
 - Enables *fast vectorized operations* for efficient computations.
 ---
-***🔷Installation*** 
+🔷Installation 
 
 ◽️Install all required dependencies with: 
 ```bash
@@ -96,8 +96,9 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 - **Project:** [View Here](./pytorch-fashion-mnist)  
 
 ---
-`***🔷Project Outputs***` 
-`You can explore and acknowledge the **outputs/results** of all three projects by downloading the images here:`
+`🔷Project Outputs`
+ 
+`◽️You can explore and acknowledge the **outputs/results** of all three projects by downloading the images here:`
 
 👉📤[**Download Outputs**](./outputs/project_outputs.zip)  
 
@@ -107,8 +108,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 <div style="border: 2px solid #f5b5b5; border-radius: 8px; padding: 12px; background-color: #fff5f5;">
 
-<h3>Thanks for Checking Out the Repo!😊</h3>
-If you found it useful, please consider giving it a⭐🤖Happy Learning & Coding
-
+Thanks for Checking Out the Repo!😊🚀
+If you found it useful, please consider giving it a⭐
 </div>
 </details>
