@@ -88,7 +88,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 - *Goal:* Learn how to build, train, and evaluate deep learning models with TensorFlow/Keras.
 - **Project:** [View Here](./tensorflow-mnist)
 
-3️⃣ PyTorch Fashion-MNIST Classifier
+3️⃣ `PyTorch Fashion-MNIST Classifier`
 
 - *Folder:* `pytorch-fashion-mnist`
 - *Description:* Classifies *fashion items* from Fashion-MNIST using a *PyTorch neural network*.
@@ -96,7 +96,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 - **Project:** [View Here](./pytorch-fashion-mnist)  
 ---
 ***📦Project Outputs*** 
->You can download all project outputs image here:
+`You can download all project outputs image here:`
 👉📤[**Download Outputs**](./outputs/project_outputs.zip)  
 
 ---
@@ -105,10 +105,9 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 <div style="border: 2px solid #f5b5b5; border-radius: 8px; padding: 12px; background-color: #fff5f5;">
 
-<h3>🌟 Thanks for Checking Out the Repo! 😊</h3>
-
-<p>If you found it useful, please consider giving it a ⭐</p>
-<p><b>Happy Learning & Coding! 🚀</b></p>
+<h3>🌟 Thanks for Checking Out the Repo!😊</h3>
+If you found it useful, please consider giving it a ⭐  
+<b>Happy Learning & Coding! 🚀</b>
 
 </div>
 </details>
