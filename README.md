@@ -80,8 +80,6 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 👉 [**Download Outputs**](./outputs/project_outputs.zip)  
 
 ---
-***🤖Tech Stack & Packages***
-
 <p align="center" style="background-color:#1e1e1e; padding:15px; border-radius:12px;">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
