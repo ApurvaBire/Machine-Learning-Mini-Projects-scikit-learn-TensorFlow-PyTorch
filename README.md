@@ -1,6 +1,8 @@
 
 # 🚀🤖Machine Learning Mini Projects  
-`Beginner-friendly ML projects using **scikit-learn, TensorFlow/Keras, and PyTorch**.All datasets are either built-in or generated synthetically.`
+
+`Beginner-friendly ML projects using scikit-learn,TensorFlow/Keras,and PyTorch.
+`All datasets are either built-in or generated synthetically.`
 
 ---
 ## Overview  
@@ -23,6 +25,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 ```
 ---
 ## Projects  
+
 ### 1️⃣ Scikit-learn Synthetic Classification  
 📁 **Folder:** `scikit-learn-synthetic`  
 📝 **Description:** Generates a **synthetic 2D dataset** and classifies it using **Logistic Regression**.  
@@ -49,7 +52,6 @@ You can download all project outputs here:
 [📥 **Download Outputs**](./outputs/project_outputs.zip)  
 ---
 ## ▶️ How to Run  
-
 1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/YOUR_USERNAME/Machine-Learning-Mini-Projects-scikit-learn-TensorFlow-PyTorch.git
