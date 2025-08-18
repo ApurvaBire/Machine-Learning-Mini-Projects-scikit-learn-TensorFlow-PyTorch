@@ -68,7 +68,7 @@ The foundation of numerical computing in Python.`
 ---
 🔷Installation 
 
-◽️Install dependencies for each project separately:
+`◽️Install dependencies for each project separately:`
 
 ```bash
 # 1️⃣ Scikit-learn Synthetic Classification
@@ -98,14 +98,14 @@ pip install -r requirements.txt
 - *Folder:* `tensorflow-mnist`
 - *Description:* Classifies *handwritten digits* from MNIST using a *simple neural network*.
 - *Goal:* Learn how to build, train, and evaluate deep learning models with TensorFlow/Keras.
-- **Project:** [View Here](./tensorflow-mnist)
+- 🔗**Project:** [View Here](./tensorflow-mnist)
 
 3️⃣ `PyTorch Fashion-MNIST Classifier`
 
 - *Folder:* `pytorch-fashion-mnist`
 - *Description:* Classifies *fashion items* from Fashion-MNIST using a *PyTorch neural network*.
 - *Goal:* Learn PyTorch basics — dataset loading, training, evaluation, and predictions.
-- **Project:** [View Here](./pytorch-fashion-mnist)  
+- 🔗**Project:** [View Here](./pytorch-fashion-mnist)  
 
 ---
 `🔷Project Outputs`
