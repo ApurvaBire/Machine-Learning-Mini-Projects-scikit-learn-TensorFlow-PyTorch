@@ -95,6 +95,22 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 - *Goal:* Learn PyTorch basics — dataset loading, training, evaluation, and predictions.
 - **Project:** [View Here](./pytorch-fashion-mnist)  
 ---
+
+***⏸How to Run Any Project***
+
+1. Clone the repository:
+git clone https://github.com/YOUR_USERNAME/Machine-Learning-Mini-Projects-scikit-learn-TensorFlow-PyTorch.git
+cd Machine-Learning-Mini-Projects-scikit-learn-TensorFlow-PyTorch
+
+2. Go to the project folder and install requirements:
+
+cd scikit-learn-synthetic   # or tensorflow-mnist / pytorch-fashion-mnist
+pip install -r requirements.txt
+
+3. Run the main Python file:
+
+python main.py               # or tensorflow_mnist.py / pytorch_fashion_mnist.py
+
 ***📦Project Outputs*** 
 >You can download all project outputs image here:
 👉📤[**Download Outputs**](./outputs/project_outputs.zip)  
@@ -107,9 +123,9 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 <h3>🌟 Thanks for Checking Out the Repo! 😊</h3>
 
-<p>If you found it useful, please consider giving it a ⭐ on GitHub!</p>
+<p>If you found it useful, please consider giving it a ⭐</p>
 
-<p><b>✨ Happy Learning & Coding! 🚀</b></p>
+<p><b>Happy Learning & Coding!🚀</b></p>
 
 </div>
 </details>
