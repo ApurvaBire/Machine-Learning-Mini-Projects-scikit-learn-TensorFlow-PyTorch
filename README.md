@@ -1,6 +1,6 @@
 <div align="center">
 
-# Machine Learning Projects  
+# ***Machine Learning Projects*** 
 `Scikit-learn • PyTorch • TensorFlow`
  
 </div>
@@ -28,11 +28,9 @@
 
 ***📦 Main Packages Overview***
 
-Main Packages Overview
+`This repository demonstrates end-to-end machine learning workflows using a mix of classical ML and modern deep learning frameworks. Below is a quick overview of the core packages leveraged in the projects:`
 
-This repository demonstrates end-to-end machine learning workflows using a mix of classical ML and modern deep learning frameworks. Below is a quick overview of the core packages leveraged in the projects:
-
-Packages Used
+◽️Packages Used
 1. Scikit-learn
 A powerful classical machine learning library in Python.
 
@@ -78,23 +76,23 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 -`1️⃣Scikit-learn Synthetic Classification` 
 
-**Folder:** `scikit-learn-synthetic`  
-**Description:** Generates a **synthetic 2D dataset** and classifies it using **Logistic Regression**.  
-**Goal:** Learn ML workflow — dataset creation, training, and visualization.  
+**•Folder:** `scikit-learn-synthetic`  
+**•Description:** Generates a **synthetic 2D dataset** and classifies it using **Logistic Regression**.  
+**•Goal:** Learn ML workflow — dataset creation, training, and visualization.  
 🔗 **Project:** [View Here](./scikit-learn-synthetic)  
 
 -`2️⃣TensorFlow MNIST Classifier`  
 
-**Folder:** `tensorflow-mnist`  
-**Description:** Classifies **handwritten digits** from MNIST using a **simple neural network**.  
-**Goal:** Learn how to build, train, and evaluate deep learning models with TensorFlow/Keras.  
+**•Folder:** `tensorflow-mnist`  
+**•Description:** Classifies **handwritten digits** from MNIST using a **simple neural network**.  
+**•Goal:** Learn how to build, train, and evaluate deep learning models with TensorFlow/Keras.  
 🔗 **Project:** [View Here](./tensorflow-mnist)  
 
 -`3️⃣ PyTorch Fashion-MNIST Classifier`
   
-**Folder:**`pytorch-fashion-mnist`  
-**Description:** Classifies **fashion items** from Fashion-MNIST using a **PyTorch neural network**.  
-**Goal:** Learn PyTorch basics — dataset loading, training, evaluation, and predictions.  
+**•Folder:**`pytorch-fashion-mnist`  
+**•Description:** Classifies **fashion items** from Fashion-MNIST using a **PyTorch neural network**.  
+**•Goal:** Learn PyTorch basics — dataset loading, training, evaluation, and predictions.  
 🔗 **Project:** [View Here](./pytorch-fashion-mnist)  
 
 ---
