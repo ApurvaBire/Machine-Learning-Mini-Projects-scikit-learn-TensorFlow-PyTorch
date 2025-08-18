@@ -5,10 +5,11 @@
 `All datasets are either built-in or generated synthetically.`
 
 ---
-## Overview  
+`Overview`
 
 `This repository contains three beginner-friendly projects that demonstrate core concepts of machine learning and deep learning using Python’s most popular libraries. ` 
-### Main Packages Used  
+
+`Main Packages Used`  
 
 -`scikit-learn` – Classical ML algorithms & preprocessing  
 -`TensorFlow / Keras`– Deep learning for computer vision & NLP  
@@ -17,28 +18,28 @@
 -`NumPy`– Numerical computations  
 
 ---
-##  Installation  
+`Installation` 
 You can install all required packages using pip:  
 
 ```bash
 pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 ```
 ---
-## Projects  
+`Projects` 
 
-### 1️⃣ Scikit-learn Synthetic Classification  
+1️⃣ Scikit-learn Synthetic Classification  
 📁 **Folder:** `scikit-learn-synthetic`  
 📝 **Description:** Generates a **synthetic 2D dataset** and classifies it using **Logistic Regression**.  
 🎯 **Goal:** Learn ML workflow — dataset creation, training, and visualization.  
 🔗 [View Project](./scikit-learn-synthetic)  
 
-### 2️⃣ TensorFlow MNIST Classifier  
+2️⃣ TensorFlow MNIST Classifier  
 📁 **Folder:** `tensorflow-mnist`  
 📝 **Description:** Classifies **handwritten digits** from MNIST using a **simple neural network**.  
 🎯 **Goal:** Learn how to build, train, and evaluate deep learning models with TensorFlow/Keras.  
 🔗 [View Project](./tensorflow-mnist)  
 
-### 3️⃣ PyTorch Fashion-MNIST Classifier  
+ 3️⃣ PyTorch Fashion-MNIST Classifier  
 📁 **Folder:** `pytorch-fashion-mnist`  
 📝 **Description:** Classifies **fashion items** from Fashion-MNIST using a **PyTorch neural network**.  
 🎯 **Goal:** Learn PyTorch basics — dataset loading, training, evaluation, and predictions.  
@@ -46,13 +47,13 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 
 ---
 
-## Project Outputs  
+`Project Outputs` 
 
 You can download all project outputs here:  
 [📥 **Download Outputs**](./outputs/project_outputs.zip)  
 
 ---
-## ▶️ How to Run  
+`▶️ How to Run` 
 1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/YOUR_USERNAME/Machine-Learning-Mini-Projects-scikit-learn-TensorFlow-PyTorch.git
@@ -70,7 +71,7 @@ pip install -r requirements.txt
 python main.py              # or tensorflow_mnist.py / pytorch_fashion_mnist.py
 ```  
 ---
-## Tech Stack & Packages  
+`Tech Stack & Packages` 
 
 <p align="center">
   <a href="https://www.python.org/">
