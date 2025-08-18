@@ -35,7 +35,7 @@ pip install scikit-learn tensorflow torch torchvision matplotlib numpy
 - **Folder:** `tensorflow-mnist`  
 - **Description:** Classifies **handwritten digits** from MNIST using a **simple neural network**.  
 - **Goal:** Learn how to build, train, and evaluate deep learning models with TensorFlow/Keras.  
-- 📄 [View Project](./tensorflow-mnist/README.md)
+- 📄 [View Project](./tensorflow-mnist) 
 
 ---
 
