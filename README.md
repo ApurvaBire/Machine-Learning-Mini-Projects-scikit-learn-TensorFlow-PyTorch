@@ -110,7 +110,7 @@ pip install -r requirements.txt
 ---
 `🔷Project Outputs`
  
-`◽️You can explore and acknowledge the **outputs/results** of all three projects by downloading the images here:`
+`◽️You can explore and acknowledge the outputs/results of all three projects by downloading the images here:`
 
 👉📤[**Download Outputs**](./outputs/project_outputs.zip)  
 
