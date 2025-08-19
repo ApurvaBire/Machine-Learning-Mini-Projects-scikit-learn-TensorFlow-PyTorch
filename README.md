@@ -112,7 +112,7 @@ pip install -r requirements.txt
  
 `◽️You can explore and acknowledge the outputs/results of all three projects by downloading the images here:`
 
-👉📤[**Download Outputs**](./outputs/project_outputs.zip)  
+👉📤[**Download Outputs**](./Ml project (Output) -20250819T082205Z-1-001.zip)  
 
 ---
 <details>
